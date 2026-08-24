@@ -1,0 +1,15 @@
+*.exe
+*.out
+*.app
+*.o
+*.tmp
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+.Ds_Store
+Thumbs.db
